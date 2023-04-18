@@ -1,0 +1,15 @@
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\Presenter.csproj.AssemblyReference.cache
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\Presenter.GeneratedMSBuildEditorConfig.editorconfig
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\Presenter.AssemblyInfoInputs.cache
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\Presenter.AssemblyInfo.cs
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\Presenter.csproj.CoreCompileInputs.cache
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\bin\Debug\net7.0\Presenter.deps.json
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\bin\Debug\net7.0\Presenter.dll
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\bin\Debug\net7.0\Presenter.pdb
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\Presenter.dll
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\refint\Presenter.dll
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\Presenter.pdb
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\ref\Presenter.dll
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\bin\Debug\net7.0\Domain.dll
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\bin\Debug\net7.0\Domain.pdb
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Presenter\obj\Debug\net7.0\Presenter.csproj.CopyComplete

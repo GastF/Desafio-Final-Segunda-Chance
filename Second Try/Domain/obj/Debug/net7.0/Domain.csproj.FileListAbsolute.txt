@@ -1,0 +1,12 @@
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\bin\Debug\net7.0\Domain.deps.json
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\bin\Debug\net7.0\Domain.dll
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\bin\Debug\net7.0\Domain.pdb
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\obj\Debug\net7.0\Domain.csproj.AssemblyReference.cache
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\obj\Debug\net7.0\Domain.dll
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\obj\Debug\net7.0\refint\Domain.dll
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\obj\Debug\net7.0\Domain.pdb
+G:\Game Dev\C#\Projects\Practica\Final\Desafio final Second try\Desafio-Final-Segunda-Chance\Second Try\Domain\obj\Debug\net7.0\ref\Domain.dll
